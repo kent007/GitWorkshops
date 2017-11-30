@@ -4,3 +4,5 @@ We'll explore one of the most dreaded - but inevitable - things in Git... Merge 
 Everyone should change the following sentance with thier own thing:
 
 I am A Large Cowboy and my favorite programming language is AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaa.
+I am desperate and my favorite programming language is buying gf.
+I am Ben and my favorite programming language is MATLAB.
